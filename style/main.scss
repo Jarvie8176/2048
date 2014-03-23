@@ -344,17 +344,17 @@ hr {
                    #89a9d7 true, // 1024
                    #c76d5c true; // 2048
 
-   $tile-pokemon:  url('../im/weedle.png'), // 2
-                   url('../im/pidgey.png'), // 4
-                   url('../im/zubat.png'), // 8
-                   url('../im/magikarp.png'), // 16
-                   url('../im/psyduck.png'), // 32
-                   url('../im/ninetales.png'), // 64
-                   url('../im/snorlax.png'), // 128
-                   url('../im/pikachu.png'), // 256
-                   url('../im/venasaur.png'), // 512
-                   url('../im/blastoise.png'), // 1024
-                   url('../im/charizard.png'); // 2048
+   $tile-pokemon:  url('../im/img_1.png'),
+                   url('../im/img_2.png'),
+                   url('../im/img_3.png'),
+                   url('../im/img_4.png'),
+                   url('../im/img_5.png'),
+                   url('../im/img_6.png'),
+                   url('../im/img_7.png'),
+                   url('../im/img_8.png'),
+                   url('../im/img_9.png'),
+                   url('../im/img_10.png'),
+                   url('../im/img_11.png');
 
   // Build tile colors
   @while $exponent <= $limit {
